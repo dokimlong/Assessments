@@ -1,1 +1,1 @@
-# Java_Assessments
+# Assessments
